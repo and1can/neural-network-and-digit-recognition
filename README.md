@@ -9,11 +9,12 @@ numpy==1.6.2
 scikit-learn==0.17
 scipy=0.11.0
 
-to train with cross entropy
+To run code seen in Analysis, go into Data directory and choose one of two functions to train with.
 
-python2.6 n.py
+    1) to train with cross entropy
 
+       python2.6 n.py
 
+    2) to train with mean square loss: 
 
-to train with mean square loss: 
-python2.6 mean.py
+       python2.6 mean.py
